@@ -6,9 +6,50 @@
 
 body {
     padding: 40px;
+    font-family: 'Abhaya Libre', serif;
+    color: rgb(26, 83, 26);
 }
 
 blockquote {
     margin: 0 0 0 30px;
 }
 
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 48px;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+h3 {
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0.1px;
+    word-spacing: 30px;
+}
+
+blockquote {
+    font-style: italic;
+    line-height: 20px;
+}
+
+span {
+    text-decoration: line-through;
+}
+
+em {
+    text-transform: capitalize;
+}
+
+strong {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+}
